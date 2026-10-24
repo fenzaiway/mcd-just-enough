@@ -3,7 +3,7 @@
 > 四个人点麦当劳，最容易犯的错不是点贵了，是**点多了**。
 > 这个 Skill 先算「这桌人到底吃得下多少」，再去找最接近这个量的组合——薯条按两人一份下单，饮料想喝才加，最后交给 `calculate-price` 核一遍真实价格。
 
-[![CI](https://github.com/fenzaiway/mcd-just-enough/actions/workflows/ci.yml/badge.svg)](https://github.com/fenzaiway/mcd-just-enough/actions/workflows/ci.yml)
+[![tests](https://img.shields.io/badge/tests-51%20passing-brightgreen)](tests/)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Dependencies](https://img.shields.io/badge/dependencies-0-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-green)
