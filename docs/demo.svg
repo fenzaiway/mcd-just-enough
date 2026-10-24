@@ -1,0 +1,210 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="613" viewBox="0 0 900 613" font-family="'SF Mono', Menlo, Consolas, 'PingFang SC', 'Microsoft YaHei', monospace" font-size="12.5">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#0b0f14"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="900" height="613" rx="12" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="899" height="612" rx="12" fill="none" stroke="#30363d"/>
+  <rect x="0" y="0" width="900" height="40" rx="12" fill="#161b22"/>
+  <rect x="0" y="30" width="900" height="10" fill="#161b22"/>
+  <circle cx="24" cy="20" r="6" fill="#ff5f57"/>
+  <circle cx="44" cy="20" r="6" fill="#febc2e"/>
+  <circle cx="64" cy="20" r="6" fill="#28c840"/>
+  <text x="450.0" y="24" fill="#8b949e" font-size="12" text-anchor="middle">justenough demo · 离线示例数据（非真实菜单与价格）</text>
+  <line x1="0" y1="40" x2="900" y2="40" stroke="#30363d"/>
+  <text x="26" y="74" fill="#8b949e" font-weight="400" xml:space="preserve"># 离线演示：全部数据来自 fixtures/，不代表真实门店菜单与价格</text>
+  <text x="26" y="93" fill="#d0d7de" font-weight="400" xml:space="preserve"></text>
+  <text x="26" y="112" fill="#f6c344" font-weight="600" xml:space="preserve">🍟 麦门刚好 · 点餐方案</text>
+  <text x="26" y="131" fill="#d0d7de" font-weight="400" xml:space="preserve">========================================================</text>
+  <text x="26" y="150" fill="#e6edf3" font-weight="600" xml:space="preserve">就餐 4 人 | 目标 2592–3168 kcal | 方案 2620 kcal | 判定 刚好</text>
+  <text x="26.0" y="169" fill="#8b949e" font-weight="400" xml:space="preserve">[████████████████████████████</text>
+  <text x="243.5" y="169" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="251.0" y="169" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="258.5" y="169" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="266.0" y="169" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="273.5" y="169" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="281.0" y="169" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="288.5" y="169" fill="#8b949e" font-weight="400" xml:space="preserve">············]  ▏区间 2592–3168</text>
+  <text x="26" y="188" fill="#d0d7de" font-weight="400" xml:space="preserve"></text>
+  <text x="26" y="207" fill="#d0d7de" font-weight="400" xml:space="preserve">分组</text>
+  <text x="26" y="226" fill="#d0d7de" font-weight="400" xml:space="preserve">  · 成人×4（正常）: 2620 kcal（目标 2592–3168 kcal，人均 655 kcal）</text>
+  <text x="26" y="245" fill="#d0d7de" font-weight="400" xml:space="preserve"></text>
+  <text x="26.0" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">┌</text>
+  <text x="33.5" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="41.0" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="48.5" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="56.0" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="63.5" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="71.0" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="78.5" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="86.0" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="93.5" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="101.0" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="108.5" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="116.0" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="123.5" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">┬</text>
+  <text x="131.0" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="138.5" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="146.0" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="153.5" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="161.0" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="168.5" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="176.0" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">┬</text>
+  <text x="183.5" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="191.0" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="198.5" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="206.0" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="213.5" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="221.0" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="228.5" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="236.0" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">┬</text>
+  <text x="243.5" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="251.0" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="258.5" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="266.0" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="273.5" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="281.0" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="288.5" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="296.0" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">┬</text>
+  <text x="303.5" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="311.0" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="318.5" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="326.0" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="333.5" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="341.0" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="348.5" y="264" fill="#8b949e" font-weight="400" xml:space="preserve">┐</text>
+  <text x="26.0" y="283" fill="#8b949e" font-weight="400" xml:space="preserve">│</text>
+  <text x="33.5" y="283" fill="#8b949e" font-weight="400" xml:space="preserve"> 餐品       </text>
+  <text x="123.5" y="283" fill="#8b949e" font-weight="400" xml:space="preserve">│</text>
+  <text x="131.0" y="283" fill="#8b949e" font-weight="400" xml:space="preserve"> 数量 </text>
+  <text x="176.0" y="283" fill="#8b949e" font-weight="400" xml:space="preserve">│</text>
+  <text x="183.5" y="283" fill="#8b949e" font-weight="400" xml:space="preserve"> 单价  </text>
+  <text x="236.0" y="283" fill="#8b949e" font-weight="400" xml:space="preserve">│</text>
+  <text x="243.5" y="283" fill="#8b949e" font-weight="400" xml:space="preserve"> 小计  </text>
+  <text x="296.0" y="283" fill="#8b949e" font-weight="400" xml:space="preserve">│</text>
+  <text x="303.5" y="283" fill="#8b949e" font-weight="400" xml:space="preserve"> kcal </text>
+  <text x="348.5" y="283" fill="#8b949e" font-weight="400" xml:space="preserve">│</text>
+  <text x="26.0" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">├</text>
+  <text x="33.5" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="41.0" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="48.5" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="56.0" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="63.5" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="71.0" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="78.5" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="86.0" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="93.5" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="101.0" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="108.5" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="116.0" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="123.5" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">┼</text>
+  <text x="131.0" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="138.5" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="146.0" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="153.5" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="161.0" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="168.5" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="176.0" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">┼</text>
+  <text x="183.5" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="191.0" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="198.5" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="206.0" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="213.5" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="221.0" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="228.5" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="236.0" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">┼</text>
+  <text x="243.5" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="251.0" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="258.5" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="266.0" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="273.5" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="281.0" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="288.5" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="296.0" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">┼</text>
+  <text x="303.5" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="311.0" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="318.5" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="326.0" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="333.5" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="341.0" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="348.5" y="302" fill="#8b949e" font-weight="400" xml:space="preserve">┤</text>
+  <text x="26.0" y="321" fill="#8b949e" font-weight="400" xml:space="preserve">│</text>
+  <text x="33.5" y="321" fill="#8b949e" font-weight="400" xml:space="preserve"> 麦辣鸡腿卷 </text>
+  <text x="123.5" y="321" fill="#8b949e" font-weight="400" xml:space="preserve">│</text>
+  <text x="131.0" y="321" fill="#8b949e" font-weight="400" xml:space="preserve">    4 </text>
+  <text x="176.0" y="321" fill="#8b949e" font-weight="400" xml:space="preserve">│</text>
+  <text x="183.5" y="321" fill="#8b949e" font-weight="400" xml:space="preserve"> 19.50 </text>
+  <text x="236.0" y="321" fill="#8b949e" font-weight="400" xml:space="preserve">│</text>
+  <text x="243.5" y="321" fill="#8b949e" font-weight="400" xml:space="preserve"> 78.00 </text>
+  <text x="296.0" y="321" fill="#8b949e" font-weight="400" xml:space="preserve">│</text>
+  <text x="303.5" y="321" fill="#8b949e" font-weight="400" xml:space="preserve"> 1680 </text>
+  <text x="348.5" y="321" fill="#8b949e" font-weight="400" xml:space="preserve">│</text>
+  <text x="26.0" y="340" fill="#8b949e" font-weight="400" xml:space="preserve">│</text>
+  <text x="33.5" y="340" fill="#8b949e" font-weight="400" xml:space="preserve"> 大薯条     </text>
+  <text x="123.5" y="340" fill="#8b949e" font-weight="400" xml:space="preserve">│</text>
+  <text x="131.0" y="340" fill="#8b949e" font-weight="400" xml:space="preserve">    2 </text>
+  <text x="176.0" y="340" fill="#8b949e" font-weight="400" xml:space="preserve">│</text>
+  <text x="183.5" y="340" fill="#8b949e" font-weight="400" xml:space="preserve"> 15.50 </text>
+  <text x="236.0" y="340" fill="#8b949e" font-weight="400" xml:space="preserve">│</text>
+  <text x="243.5" y="340" fill="#8b949e" font-weight="400" xml:space="preserve"> 31.00 </text>
+  <text x="296.0" y="340" fill="#8b949e" font-weight="400" xml:space="preserve">│</text>
+  <text x="303.5" y="340" fill="#8b949e" font-weight="400" xml:space="preserve">  940 </text>
+  <text x="348.5" y="340" fill="#8b949e" font-weight="400" xml:space="preserve">│</text>
+  <text x="26.0" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">└</text>
+  <text x="33.5" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="41.0" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="48.5" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="56.0" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="63.5" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="71.0" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="78.5" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="86.0" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="93.5" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="101.0" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="108.5" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="116.0" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="123.5" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">┴</text>
+  <text x="131.0" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="138.5" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="146.0" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="153.5" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="161.0" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="168.5" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="176.0" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">┴</text>
+  <text x="183.5" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="191.0" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="198.5" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="206.0" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="213.5" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="221.0" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="228.5" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="236.0" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">┴</text>
+  <text x="243.5" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="251.0" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="258.5" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="266.0" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="273.5" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="281.0" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="288.5" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="296.0" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">┴</text>
+  <text x="303.5" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="311.0" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="318.5" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="326.0" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="333.5" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="341.0" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">─</text>
+  <text x="348.5" y="359" fill="#8b949e" font-weight="400" xml:space="preserve">┘</text>
+  <text x="26" y="378" fill="#d0d7de" font-weight="400" xml:space="preserve"></text>
+  <text x="26" y="397" fill="#d0d7de" font-weight="400" xml:space="preserve">菜品小计 109.00 元 | 优惠 -20.00 元</text>
+  <text x="26" y="416" fill="#7ee787" font-weight="600" xml:space="preserve">实付 89.00 元 | 人均 22.25 元 | 价格来源 estimate</text>
+  <text x="26" y="435" fill="#d0d7de" font-weight="400" xml:space="preserve"></text>
+  <text x="26" y="454" fill="#8b949e" font-weight="600" xml:space="preserve">说明</text>
+  <text x="26" y="473" fill="#a5b4c3" font-weight="400" xml:space="preserve">  - 目标区间 2592–3168 kcal，方案 2620 kcal（每人 655 kcal），判定「刚好」。</text>
+  <text x="26" y="492" fill="#a5b4c3" font-weight="400" xml:space="preserve">  - 配菜按共享份量下单（大薯条×2），而不是人手一份。</text>
+  <text x="26" y="511" fill="#a5b4c3" font-weight="400" xml:space="preserve">  - 已套用优惠：满 99 减 20，立减 20.00 元。</text>
+  <text x="26" y="530" fill="#a5b4c3" font-weight="400" xml:space="preserve">  - 注意：本方案价格由本地菜单估算（未调用 calculate-price），下单前请以门店实价为准。</text>
+  <text x="26" y="549" fill="#a5b4c3" font-weight="400" xml:space="preserve">  - 预算 120.00 元，实付 89.00 元，剩余 31.00 元。</text>
+  <text x="26" y="568" fill="#a5b4c3" font-weight="400" xml:space="preserve">  - 对比「人手一份套餐」（120.00 元 / 3560 kcal）：省 31.00 元、少 940 kcal，约等于 2.0 份大薯条的热量。</text>
+</svg>

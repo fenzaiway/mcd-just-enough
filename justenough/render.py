@@ -97,13 +97,6 @@ def render_plan(plan: Plan, *, title: str = "麦门刚好 · 点餐方案") -> s
     lines.append(
         f"实付 {plan.quote.payable:.2f} 元 | 人均 {plan.per_person_price:.2f} 元 | 价格来源 {plan.quote.source}"
     )
-    if plan.baseline_quote is not None:
-        saving = plan.baseline_quote.payable - plan.quote.payable
-        kcal_gap = plan.baseline_kcal - plan.kcal
-        lines.append(
-            f"对比「人手一份套餐」：{plan.baseline_quote.payable:.2f} 元 / {plan.baseline_kcal:.0f} kcal "
-            f"→ 省 {saving:.2f} 元、少 {kcal_gap:.0f} kcal"
-        )
     lines.append("")
     lines.append("说明")
     for note in plan.notes:
@@ -127,12 +120,6 @@ def render_markdown(plan: Plan, *, title: str = "麦门刚好 · 点餐方案") 
     lines.append(
         f"实付 **{plan.quote.payable:.2f} 元**（人均 {plan.per_person_price:.2f} 元，优惠 {plan.quote.discount:.2f} 元）"
     )
-    if plan.baseline_quote is not None:
-        lines.append("")
-        lines.append(
-            f"对比人手一份套餐：{plan.baseline_quote.payable:.2f} 元 / {plan.baseline_kcal:.0f} kcal → "
-            f"省 {plan.baseline_quote.payable - plan.quote.payable:.2f} 元、少 {plan.baseline_kcal - plan.kcal:.0f} kcal"
-        )
     lines.append("")
     for note in plan.notes:
         lines.append(f"- {note}")

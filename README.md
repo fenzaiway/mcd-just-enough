@@ -8,6 +8,12 @@
 ![Dependencies](https://img.shields.io/badge/dependencies-0-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+<p align="center">
+  <img src="docs/demo.svg" alt="justenough demo 终端输出" width="820">
+</p>
+
+> 上图是 `python3 -m justenough demo` 的真实输出（离线示例数据，标题栏已标注）。
+
 ---
 
 ## 为什么还要再做一版点餐助手
@@ -147,7 +153,8 @@ mcd-just-enough/
 ├── fixtures/           # 离线示例数据（明确标注非真实菜单）
 ├── examples/           # 可直接查看的输出样例
 ├── tests/              # 51 个单元测试，全部离线
-└── docs/design.md      # 设计取舍与复杂度
+├── tools/demo_svg.py   # 把 demo 输出渲染成 README 里的终端截图 SVG
+└── docs/               # design.md（设计取舍）、demo.svg（示例输出图）
 ```
 
 ## 测试

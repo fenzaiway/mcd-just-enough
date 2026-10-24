@@ -335,7 +335,8 @@ def build_plan(
         if side is not None and kcal_saved > 0:
             extra = f"，约等于 {kcal_saved / side.kcal:.1f} 份{side.name}的热量"
         best.notes.append(
-            f"对比「人手一份套餐」：省 {saved:.2f} 元、少 {kcal_saved:.0f} kcal{extra}。"
+            f"对比「人手一份套餐」（{best.baseline_quote.payable:.2f} 元 / {best.baseline_kcal:.0f} kcal）："
+            f"省 {saved:.2f} 元、少 {kcal_saved:.0f} kcal{extra}。"
         )
     return best
 
