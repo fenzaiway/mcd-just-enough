@@ -1,0 +1,5 @@
+[
+  {"coupon_id": "C30", "name": "满 30 减 5", "discount": 5, "threshold": 30},
+  {"coupon_id": "C60", "name": "满 60 减 12", "discount": 12, "threshold": 60},
+  {"coupon_id": "C99", "name": "满 99 减 20", "discount": 20, "threshold": 99}
+]

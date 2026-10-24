@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mcd-just-enough"
+version = "1.0.0"
+description = "麦门刚好：按人数与食量求解「刚好够」的麦当劳订单，少点一点，少剩一点"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "fenzaiway" }]
+keywords = ["mcdonalds", "mcp", "skill", "food-waste", "portion"]
+dependencies = []
+
+[project.scripts]
+justenough = "justenough.cli:main"
+
+[tool.setuptools]
+packages = ["justenough"]

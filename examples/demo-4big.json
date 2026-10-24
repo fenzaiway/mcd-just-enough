@@ -1,0 +1,73 @@
+{
+  "headcount": 4,
+  "target_kcal": {
+    "lo": 3110,
+    "mid": 3456,
+    "hi": 3802
+  },
+  "planned_kcal": 3140,
+  "per_person_kcal": 785.0,
+  "verdict": "刚好",
+  "nutrition_coverage": 1.0,
+  "groups": [
+    {
+      "label": "成人×4（食量大）",
+      "people": 4,
+      "target_kcal": "3110–3802 kcal",
+      "planned_kcal": 3140,
+      "items": [
+        {
+          "code": "M002",
+          "name": "巨无霸",
+          "qty": 4,
+          "kcal": 2200
+        },
+        {
+          "code": "S002",
+          "name": "大薯条",
+          "qty": 2,
+          "kcal": 940
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "code": "M002",
+      "name": "巨无霸",
+      "qty": 4,
+      "unit_price": 26.5,
+      "subtotal": 106.0,
+      "kcal": 2200
+    },
+    {
+      "code": "S002",
+      "name": "大薯条",
+      "qty": 2,
+      "unit_price": 15.5,
+      "subtotal": 31.0,
+      "kcal": 940
+    }
+  ],
+  "price": {
+    "source": "estimate",
+    "subtotal": 137.0,
+    "discount": 20.0,
+    "delivery_fee": 0.0,
+    "payable": 117.0,
+    "per_person": 29.25,
+    "coupon": "满 99 减 20"
+  },
+  "baseline": {
+    "payable": 148.0,
+    "kcal": 4080.0,
+    "saving": 31.0
+  },
+  "notes": [
+    "目标区间 3110–3802 kcal，方案 3140 kcal（每人 785 kcal），判定「刚好」。",
+    "配菜按共享份量下单（大薯条×2），而不是人手一份。",
+    "已套用优惠：满 99 减 20，立减 20.00 元。",
+    "注意：本方案价格由本地菜单估算（未调用 calculate-price），下单前请以门店实价为准。",
+    "对比「人手一份套餐」：省 31.00 元、少 940 kcal，约等于 2.0 份大薯条的热量。"
+  ]
+}
